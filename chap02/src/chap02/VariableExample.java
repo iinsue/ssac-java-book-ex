@@ -1,6 +1,7 @@
 package chap02;
 
 public class VariableExample {
+	// This is Java chapter02 35p
 	static void variableExample () {
 		// 10을 변수 value의 초기값으로 저장
 		int value = 10;
