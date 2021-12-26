@@ -2,7 +2,7 @@ package chap02;
 
 public class LongExample {
 	//This is Java chapter02 46p
-	// long Å¸ÀÔ º¯¼ö (long type variable)
+	// long íƒ€ìž… ë³€ìˆ˜ (long type variable)
 	static void longExample() {
 		long var1 = 10;
 		long var2 = 20L;

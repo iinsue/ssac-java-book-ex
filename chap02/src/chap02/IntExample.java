@@ -2,11 +2,11 @@ package chap02;
 
 public class IntExample {
 	//This is Java chapter02 45p
-	// int Å¸ÀÔ º¯¼ö (int type variable)
+	// int íƒ€ì… ë³€ìˆ˜ (int type variable)
 	static void intExample () {
-		int var1 = 10;	// 10Áø¼ö·Î ÀúÀå
-		int var2 = 012;	// 8Áø¼ö·Î ÀúÀå
-		int var3 = 0xA;	// 16Áø¼ö·Î ÀúÀå
+		int var1 = 10;	// 10ì§„ìˆ˜ë¡œ ì €ì¥
+		int var2 = 012;	// 8ì§„ìˆ˜ë¡œ ì €ì¥
+		int var3 = 0xA;	// 16ì§„ìˆ˜ë¡œ ì €ì¥
 		
 		System.out.println(var1);
 		System.out.println(var2);

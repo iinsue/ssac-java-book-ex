@@ -2,13 +2,12 @@ package chap02;
 
 public class CharExample {
 	//This is Java chapter02 43p
-	// char Å¸ÀÔ º¯¼ö (char type variable)
+	// char íƒ€ì… ë³€ìˆ˜ (char type variable)
 	static void charExample () {
-	char c1 = 'A';	// ¹®ÀÚ¸¦ Á÷Á¢ ÀúÀå
-	char c2 = 65;	// 10Áø¼ö·Î ÀúÀå
-	char c3 = '\u0041';	// 16Áø¼ö·Î ÀúÀå
-	
-	int uniCode = c1;
+	char c1 = 'A';	// ë¬¸ìë¥¼ ì§ì ‘ ì €ì¥
+	char c2 = 65;	// 10ì§„ìˆ˜ë¡œ ì €ì¥
+	char c3 = '\u0041';	// 16ì§„ìˆ˜ë¡œ ì €ì¥
+	int uniCode = c1;	// ìœ ë‹ˆì½”ë“œ ì–»ê¸°
 	
 	System.out.println(c1);
 	System.out.println(c2);

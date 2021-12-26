@@ -2,7 +2,7 @@ package chap02;
 
 public class OperationsPromotionExample {
 	//This is Java chapter02 59p
-	// ¿¬»ê½Ä¿¡¼­ ÀÚµ¿ Å¸ÀÔ º¯È¯
+	// ì—°ì‚°ì‹ì—ì„œ ìë™ íƒ€ì… ë³€í™˜
 	static void operationsPromotionExample () {
 		byte byteValue1 = 10;
 		byte byteValue2 = 20;
@@ -14,8 +14,8 @@ public class OperationsPromotionExample {
 		char charValue2 = 1;
 		// char charValue3 = charValue1 + charValue2;	//Compile Error
 		int intValue2 = charValue1 + charValue2;
-		System.out.println("À¯´ÏÄÚµå= " + intValue2);
-		System.out.println("Ãâ·Â¹®ÀÚ= " + (char)intValue2);
+		System.out.println("ìœ ë‹ˆì½”ë“œ= " + intValue2);
+		System.out.println("ì¶œë ¥ë¬¸ì= " + (char)intValue2);
 		
 		int intValue3 = 10;
 		int intValue4 = intValue3 / 4;

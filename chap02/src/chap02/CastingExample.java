@@ -2,7 +2,7 @@ package chap02;
 
 public class CastingExample {
 	//This is Java chapter02 54p
-	//°­Á¦ Å¸ÀÔ º¯È¯ (Casting)
+	//ê°•ì œ íƒ€ìž… ë³€í™˜ (Casting)
 	static void castingExample () {
 		
 		int intValue = 44032;

@@ -2,7 +2,7 @@ package chap02;
 
 public class FromIntToDouble {
 	//This is Java chapter02 57p
-	//Á¤¼ö Å¸ÀÔÀ» ½Ç¼ö Å¸ÀÔÀ¸·Î º¯È¯ÇÒ ¶§ Á¤¹Ğµµ ¼Õ½ÇÀ» ÇÇÇÑ´Ù.
+	//ì •ìˆ˜ íƒ€ì…ì„ ì‹¤ìˆ˜ íƒ€ì…ìœ¼ë¡œ ë³€í™˜í•  ë•Œ ì •ë°€ë„ ì†ì‹¤ì„ í”¼í•œë‹¤.
 	static void fromIntToDouble () {
 		int num1 = 123456780;
 		int num2 = 123456780;

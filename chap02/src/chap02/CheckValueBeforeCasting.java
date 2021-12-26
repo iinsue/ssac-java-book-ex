@@ -2,16 +2,17 @@ package chap02;
 
 public class CheckValueBeforeCasting {
 	//This is Java chapter02 55p
-	//º¯È¯À¸·Î ÀÎÇÑ µ¥ÀÌÅÍ ¼Õ½ÇÀÌ ¹ß»ıµÇÁö ¾Êµµ·Ï ÇÑ´Ù.
+	//ë³€í™˜ìœ¼ë¡œ ì¸í•œ ë°ì´í„° ì†ì‹¤ì´ ë°œìƒë˜ì§€ ì•Šë„ë¡ í•œë‹¤.
 	static void checkValueBeforeCasting () {
 		
 		int i = 128;
 		
-		// ÄÚµå¿¡¼­ µ¥ÀÌÅÍ¸¦ °Ë»çÇÏ±âÀ§ÇØ ÃÖ´ë°ª°ú ÃÖ¼Ò°ªÀ» »ó¼ö·Î Á¦°ø
-		// MIN_VALUE ÃÖ¼Ú°ª »ó¼ö MAX_VALUE ÃÖ´ë°ª »ó¼ö
+		// ìë°”ëŠ” ì½”ë“œì—ì„œ ë°ì´í„°ê°’ì„ ê²€ì‚¬í•˜ê¸°ìœ„í•´ charê³¼ booleanì„ ì œì™¸í•œ
+		// ê¸°ë³¸íƒ€ì…ì— ìµœëŒ“ê°’ê³¼ ìµœì†Ÿê°’ì„ ìƒìˆ˜ë¡œ ì œê³µí•˜ê³ ìˆë‹¤.
+		// MIN_VALUE ìµœì†Ÿê°’ ìƒìˆ˜ MAX_VALUE ìµœëŒ“ê°’ ìƒìˆ˜
 		if((i<Byte.MIN_VALUE) || (i>Byte.MAX_VALUE)) {
-			System.out.println("byte Å¸ÀÔÀ¸·Î º¯È¯ÇÒ ¼ö ¾ø½À´Ï´Ù.");
-			System.out.println("°ªÀ» ´Ù½Ã È®ÀÎÇØ ÁÖ¼¼¿ä.");
+			System.out.println("byte íƒ€ì…ìœ¼ë¡œ ë³€í™˜í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.");
+			System.out.println("ê°’ì„ ë‹¤ì‹œ í™•ì¸ í•´ ì£¼ì„¸ìš”.");
 		} else {
 			byte b = (byte) i;
 			System.out.println(b);

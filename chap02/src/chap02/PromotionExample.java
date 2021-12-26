@@ -2,16 +2,16 @@ package chap02;
 
 public class PromotionExample {
 	//This is Java chapter02 51p
-	// ÀÚµ¿ Å¸ÀÔ º¯È¯ (Promotion)
+	// ìë™ íƒ€ì… ë³€í™˜ (Promotion)
 	static void promotionExample () {
 
 		byte byteValue = 10;
 		int intValue = byteValue;	// int <- byte
 		System.out.println(intValue);
 		
-		char charValue = '°¡';
+		char charValue = 'ê°€';
 		intValue = charValue;	// int <- char
-		System.out.println("°¡ÀÇ À¯´ÏÄÚµå= "+intValue);
+		System.out.println("ê°€ì˜ ìœ ë‹ˆì½”ë“œ= " + intValue);
 		
 		intValue = 500;
 		long longValue = intValue;	// long <- int
