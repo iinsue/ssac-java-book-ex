@@ -1,6 +1,6 @@
 package annotation;
 
-import java.lang.reflect.*;
+import java.lang.reflect.Method;
 
 public class PrintAnnotationExample {
     public static void main(String[] args) {
