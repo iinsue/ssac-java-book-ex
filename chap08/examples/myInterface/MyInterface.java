@@ -1,3 +1,4 @@
+package examples.myInterface;
 
 //This is Java chapter08 381p
 //chapter8.7.1 디폴드 메소드의 필요성
