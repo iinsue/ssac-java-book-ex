@@ -7,5 +7,6 @@ public class Execute {
         ForSumFrom1To100Example.forSumFrom1To100Example();
         WhileSumFrom1To100Example.whileSumFrom1To100Example();
         WhileKeyControlExample.whileKeyControlExample();
+        DoWhileExample.doWhileExample();
     }
 }
