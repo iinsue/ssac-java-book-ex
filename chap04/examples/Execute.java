@@ -4,5 +4,6 @@ public class Execute {
         IfElseIfElseExample.ifelseifelse();
         IfDiceExample.ifDiceExample();
         SwitchExample.switchExample();
+        ForSumFrom1To100Example.forSumFrom1To100Example();
     }
 }
