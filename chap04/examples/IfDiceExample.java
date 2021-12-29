@@ -1,4 +1,8 @@
 package examples;
+
+//This is Java chapter04 114p
+//chapter4.2.3 if-else if-else 문
+
 public class IfDiceExample {
 
     static void ifDiceExample () {
