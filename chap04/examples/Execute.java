@@ -9,5 +9,6 @@ public class Execute {
         WhileKeyControlExample.whileKeyControlExample();
         DoWhileExample.doWhileExample();
         BreakOutterExample.breakOutterExample();
+        ContinueExample.continueExample();
     }
 }
