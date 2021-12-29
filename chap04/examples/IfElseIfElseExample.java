@@ -1,3 +1,4 @@
+package examples;
 
 //This is Java chapter04 111p
 //chapter 4.2.3 if-else if-else문
