@@ -1,4 +1,4 @@
-
+package examples.stringEuqals;
 
 //This is Java chapter05 148p
 //chapter5.5 String Type

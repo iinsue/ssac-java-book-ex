@@ -1,4 +1,4 @@
-package arrayCreateValueList2;
+package examples.arrayCreateValueList2;
 
 //This is Java chapter05 154p
 //chapter5.6.3  값의 목록으로 배열 생성
