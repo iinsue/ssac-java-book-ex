@@ -1,4 +1,4 @@
-package examples.Car3;
+package examples.car3;
 
 //This is Java chapter6 213p
 //chapter6.7.5 다른 생성자 호출(this())

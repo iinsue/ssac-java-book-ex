@@ -1,4 +1,4 @@
-package examples.Korean;
+package examples.korean;
 
 // This is Java chapter6 207p
 // chapter6.7.3 필드 초기화

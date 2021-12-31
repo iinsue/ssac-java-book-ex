@@ -1,4 +1,4 @@
-package examples.Car2;
+package examples.car2;
 
 // This is Java chapter6 211p
 // chapter 6.7.4 생성자 오버로딩(Overloading)

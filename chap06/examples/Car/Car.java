@@ -1,4 +1,4 @@
-package examples.Car;
+package examples.car;
 
 //This is Java chapter6 205p
 //chapter6 6.7.2 생성자 선언
